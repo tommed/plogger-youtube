@@ -1,0 +1,14 @@
+Project: Plogger YouTube
+Author: Tom Medhurst <tom.medhurst@gmail.com>
+Decription: Allows you to post YouTube videos (and possibly other video providers) into Plogger.
+
+Installation
+
+1. Overwrite the picture.php file in your theme (plog-content/themes/your_theme/) with the one attached.
+2. Go to YouTube and save a copy of the thumbnail which represents your video
+3. Upload the thumbail, and in the description field enter "YouTube:" followed by the YouTube code for the video
+4. That's it!
+
+For a more in-depth tutorial (with screenshots!) see http://www.tommed.co.uk/?p=16
+
+Enjoy! ;)
